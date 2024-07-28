@@ -40,4 +40,8 @@ npm install -D tailwindcss postcss autoprefixer
 
 npx tailwindcss init -p
 
+### 39:37 - Start Homepage
+
+https://www.youtube.com/watch?v=LDB4uaJ87e0&t=115s
+
 __EOF__
