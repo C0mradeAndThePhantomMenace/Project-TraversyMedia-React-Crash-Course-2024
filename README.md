@@ -32,7 +32,12 @@ https://probable-funicular-974w5479jpxc7r4v.github.dev/
 
 npm create vite@latest React-Jobs
 
+### 26:48 - Tailwind CSS Setup
 
+**Install Tailwind CSS with Vite**
 
+npm install -D tailwindcss postcss autoprefixer
+
+npx tailwindcss init -p
 
 __EOF__
