@@ -26,7 +26,11 @@ https://github.dev/C0mradeAndThePhantomMenace/Project-TraversyMedia-React-Crash-
 
 https://probable-funicular-974w5479jpxc7r4v.github.dev/
 
+## 
 
+### 0:19:53 - Setup React With Vite
+
+npm create vite@latest React-Jobs
 
 
 
